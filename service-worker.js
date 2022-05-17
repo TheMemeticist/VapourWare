@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/VapourWare/precache-manifest.32815900e5c2483d5b57805e04a02909.js"
+  "/VapourWare/precache-manifest.510e791c9caad2be6569f3e9515ca490.js"
 );
 
 workbox.clientsClaim();
